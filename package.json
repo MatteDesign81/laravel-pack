@@ -2,7 +2,7 @@
     "name": "laravel-pack",
     "displayName": "Laravel Pack",
     "description": "Collection of basic extensions to be able to work easily with Laravel",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "mattedesign",
     "repository": {
         "type": "git",
@@ -21,7 +21,8 @@
         "snippet",
         "env",
         "artisan",
-        "php"
+        "php",
+        "html"
     ],
     "extensionPack": [
         "onecentlin.laravel5-snippets",
