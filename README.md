@@ -14,7 +14,7 @@ Extension | Description
 [Laravel Goto](https://marketplace.visualstudio.com/items?itemName=absszero.vscode-laravel-goto) | Go to various Laravel files
 [Laravel Create View](https://marketplace.visualstudio.com/items?itemName=glitchbl.laravel-create-view) | Create laravel view using dot notation
 [Laravel Artisan](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan) | Run Laravel Artisan commands
-[DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) | 
+[DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) | Support for dotenv file syntax
 
 ## License
 

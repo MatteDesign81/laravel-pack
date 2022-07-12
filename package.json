@@ -2,21 +2,34 @@
     "name": "laravel-pack",
     "displayName": "Laravel Pack",
     "description": "Collection of basic extensions to be able to work easily with Laravel",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "mattedesign81",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MatteDesign81/laravel-pack"
+    },
     "engines": {
         "vscode": "^1.69.0"
     },
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "ryannaddy.laravel-artisan",
-        "onecentlin.laravel-blade",
-        "amiralizadeh9480.laravel-extra-intellisense",
+    "keywords": [
+        "laravel",
+        "blade",
+        "snippet",
+        "env",
+        "artisan"
+    ],
+    "extensionPack": [
         "onecentlin.laravel5-snippets",
-        "absszero.vscode-laravel-goto",
+        "amiralizadeh9480.laravel-extra-intellisense",
+        "onecentlin.laravel-blade",
         "shufo.vscode-blade-formatter",
         "IHunte.laravel-blade-wrapper",
+        "absszero.vscode-laravel-goto",
+        "glitchbl.laravel-create-view",
+        "ryannaddy.laravel-artisan",
         "mikestead.dotenv"
     ]
 }
