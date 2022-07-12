@@ -1,0 +1,22 @@
+{
+    "name": "laravel-pack",
+    "displayName": "Laravel Pack",
+    "description": "Collection of basic extensions to be able to work easily with Laravel",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ryannaddy.laravel-artisan",
+        "onecentlin.laravel-blade",
+        "amiralizadeh9480.laravel-extra-intellisense",
+        "onecentlin.laravel5-snippets",
+        "absszero.vscode-laravel-goto",
+        "shufo.vscode-blade-formatter",
+        "IHunte.laravel-blade-wrapper",
+        "mikestead.dotenv"
+    ]
+}
