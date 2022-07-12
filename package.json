@@ -20,7 +20,8 @@
         "blade",
         "snippet",
         "env",
-        "artisan"
+        "artisan",
+        "php"
     ],
     "extensionPack": [
         "onecentlin.laravel5-snippets",
@@ -29,8 +30,15 @@
         "shufo.vscode-blade-formatter",
         "IHunte.laravel-blade-wrapper",
         "absszero.vscode-laravel-goto",
-        "glitchbl.laravel-create-view",
+        "glitchbl.laravel-create-view",        
+        "mikestead.dotenv",
         "ryannaddy.laravel-artisan",
-        "mikestead.dotenv"
+        "bmewburn.vscode-intelephense-client",
+        "MehediDracula.php-namespace-resolver",
+        "neilbrayfield.php-docblocker",
+        "rexshi.phpdoc-comment-vscode-plugin",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "2gua.rainbow-brackets"
     ]
 }
