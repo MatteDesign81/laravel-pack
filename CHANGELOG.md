@@ -2,8 +2,6 @@
 
 All notable changes to the "laravel-pack" extension pack will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+## 1.0.0 - 12/07/2022
 
 - Initial release

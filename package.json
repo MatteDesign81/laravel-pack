@@ -3,7 +3,7 @@
     "displayName": "Laravel Pack",
     "description": "Collection of basic extensions to be able to work easily with Laravel",
     "version": "1.0.0",
-    "publisher": "mattedesign81",
+    "publisher": "mattedesign",
     "repository": {
         "type": "git",
         "url": "https://github.com/MatteDesign81/laravel-pack"
@@ -11,6 +11,7 @@
     "engines": {
         "vscode": "^1.69.0"
     },
+    "icon": "icon.png",
     "categories": [
         "Extension Packs"
     ],
