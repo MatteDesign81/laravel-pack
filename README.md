@@ -22,8 +22,10 @@ Extension | Description
 --------- | ---------
 [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) | PHP code intelligence
 [PHP Namespace Resolver](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver) | Import and expand php namespaces syntax
+[PHP Constructor](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-constructor) | Initialize php constructor properties
 [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker) | A simple, dependency free PHP specific DocBlocking package
 [PHPDoc Comment](https://marketplace.visualstudio.com/items?itemName=rexshi.phpdoc-comment-vscode-plugin) | Add phpdoc @param and @return tag for selected function signatures
+[PhpStorm Parameter Hints in VScode](https://marketplace.visualstudio.com/items?itemName=MrChetan.phpstorm-parameter-hints-in-vscode) | PhpStorm parameter hint for VS Code
 
 ## HTML Extensions
 
