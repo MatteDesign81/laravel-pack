@@ -2,7 +2,7 @@
     "name": "laravel-pack",
     "displayName": "Laravel Pack",
     "description": "Collection of basic extensions to be able to work easily with Laravel",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "mattedesign",
     "repository": {
         "type": "git",
@@ -36,10 +36,12 @@
         "ryannaddy.laravel-artisan",
         "bmewburn.vscode-intelephense-client",
         "MehediDracula.php-namespace-resolver",
+        "damianbal.vs-phpclassgen",
         "MehediDracula.php-constructor",
         "neilbrayfield.php-docblocker",
-        "rexshi.phpdoc-comment-vscode-plugin",
+        "rexshi.phpdoc-comment-vscode-plugin",        
         "MrChetan.phpstorm-parameter-hints-in-vscode",
+        "marabesi.php-import-checker",
         "formulahendry.auto-close-tag",
         "formulahendry.auto-rename-tag",
         "2gua.rainbow-brackets"
