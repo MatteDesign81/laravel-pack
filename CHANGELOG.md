@@ -3,8 +3,8 @@
 All notable changes to the "laravel-pack" extension pack will be documented in this file.
 
 ## 1.0.3 - 26/07/2022
-
-- Added useful extensions
+ - Added PHP Class Generator
+ - Added PHP import checker
 
 ## 1.0.2 - 13/07/2022
 

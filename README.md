@@ -24,7 +24,6 @@ Extension | Description
 [PHP Namespace Resolver](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver) | Import and expand php namespaces syntax
 [PHP Class Generator](https://marketplace.visualstudio.com/items?itemName=damianbal.vs-phpclassgen) | Generate class and namespace out of file path
 [PHP Constructor](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-constructor) | Initialize php constructor properties
-[PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker) | A simple, dependency free PHP specific DocBlocking package
 [PHPDoc Comment](https://marketplace.visualstudio.com/items?itemName=rexshi.phpdoc-comment-vscode-plugin) | Add phpdoc @param and @return tag for selected function signatures
 [PhpStorm Parameter Hints in VScode](https://marketplace.visualstudio.com/items?itemName=MrChetan.phpstorm-parameter-hints-in-vscode) | PhpStorm parameter hint for VS Code
 [PHP import checker](https://marketplace.visualstudio.com/items?itemName=marabesi.php-import-checker) | Know when you are importing a class and is not using it in the file, easy and fast, inspired by PHPStorm
