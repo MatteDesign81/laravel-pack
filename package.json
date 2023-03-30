@@ -2,7 +2,7 @@
     "name": "laravel-pack",
     "displayName": "Laravel Pack",
     "description": "Collection of basic extensions to be able to work easily with Laravel",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "publisher": "mattedesign",
     "repository": {
         "type": "git",
@@ -43,6 +43,5 @@
         "marabesi.php-import-checker",
         "formulahendry.auto-close-tag",
         "formulahendry.auto-rename-tag",
-        "2gua.rainbow-brackets"
     ]
 }

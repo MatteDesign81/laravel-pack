@@ -35,12 +35,6 @@ Extension | Description
 [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) | Automatically add HTML/XML close tag
 [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) | Auto rename paired HTML/XML tag
 
-## Additional Extensions
-
-Extension | Description
---------- | ---------
-[Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets) | A rainbow brackets extension
-
 ## License
 
 Please read [License](https://github.com/MatteDesign81/laravel-pack/blob/main/LICENSE) for more information
