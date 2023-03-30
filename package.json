@@ -31,17 +31,17 @@
         "shufo.vscode-blade-formatter",
         "IHunte.laravel-blade-wrapper",
         "absszero.vscode-laravel-goto",
-        "glitchbl.laravel-create-view",        
+        "glitchbl.laravel-create-view",
         "mikestead.dotenv",
         "ryannaddy.laravel-artisan",
         "bmewburn.vscode-intelephense-client",
         "MehediDracula.php-namespace-resolver",
         "damianbal.vs-phpclassgen",
         "MehediDracula.php-constructor",
-        "rexshi.phpdoc-comment-vscode-plugin",        
+        "rexshi.phpdoc-comment-vscode-plugin",
         "MrChetan.phpstorm-parameter-hints-in-vscode",
         "marabesi.php-import-checker",
         "formulahendry.auto-close-tag",
-        "formulahendry.auto-rename-tag",
+        "formulahendry.auto-rename-tag"
     ]
 }
